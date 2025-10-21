@@ -1,0 +1,3 @@
+class goods {
+    int memberId;
+}
